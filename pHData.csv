@@ -1,0 +1,51 @@
+Sample,Time after inoculation,pH
+Aguas Zarcas 1,0,8.53
+Aguas Zarcas 2,0,8.44
+Aguas Zarcas 3 ,0,8.17
+Control A 1,0,7.09
+Control A 2,0,7.08
+Control A 3,0,7.09
+Control B 1,0,7.08
+Control B 2,0,7.07
+Control B 3,0,7.11
+Control C 1,0,6.72
+Control C 2,0,6.50
+Control C 3,0,6.96
+Non-biological Aguas Zarcas 1,0,8.55
+Non-biological Control A 1,0,7.11
+Non-biological Control A 2,0,7.12
+Non-biological Control A 3,0,7.10
+Non-biological Control B 1,0,7.10
+Non-biological Control B 2,0,7.12
+Non-biological Control B 3,0,7.10
+Non-biological Control C 1,0,7.04
+Non-biological Control C 2,0,6.58
+Non-biological Control C 3,0,6.72
+Aguas Zarcas 1,14,8.44
+Aguas Zarcas 2,14,7.78
+Aguas Zarcas 3 ,14,8.22
+Control A 1,14,6.86
+Control A 2,14,7.12
+Control A 3,14,7.13
+Control B 1,14,6.78
+Control B 2,14,7.11
+Control B 3,14,7.13
+Control C 1,14,7.41
+Control C 2,14,7.10
+Control C 3,14,7.38
+Non-biological Aguas Zarcas 1,14,8.34
+Non-biological Control A 1,14,7.10
+Non-biological Control A 2,14,7.09
+Non-biological Control A 3,14,7.12
+Non-biological Control B 1,14,7.08
+Non-biological Control B 2,14,7.09
+Non-biological Control B 3,14,7.16
+Non-biological Control C 1,14,6.55
+Non-biological Control C 2,14,6.43
+Non-biological Control C 3,14,6.54
+Starting culture 1,0,7.09
+Starting culture 2,0,7.09
+Starting culture 3,0,7.08
+Starting culture 1,14,7.10
+Starting culture 2,14,7.12
+Starting culture 3,14,7.12
